@@ -21,6 +21,10 @@ We start every Thursday at 18:30 with a short introduction and then start hackin
 
 Please bring a laptop, ideally with your favourite editor and a recent Rust stable already installed.  If you can't bring one, you can certainly pair up with someone who brought theirs.
 
+## Discussions
+
+Join kyivlambda Slack by following the [invitation link](https://kyivlambda.slack.com/join/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU).  Find `#rust` channel there.
+
 ## Code of Conduct
 
 The [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) applies to this event.

@@ -21,6 +21,10 @@ Rust — нова мова системного програмування, що
 
 Будь ласка, візьміть ноутбук. Було б чудово заздалегідь встановити на нього Rust та налаштувати улюблений редактор для роботи з Rust кодом. Якщо не вийде прийти з ноутбуком, ви завжди зможете до когось підсісти.
 
+## Обговорення
+
+Приєднуйтесь до Slack kyivlambda (ось [запрошення](https://kyivlambda.slack.com/join/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU)), а в ньому — до каналу `#rust`.
+
 ## Норми поведінки
 
 Ознайомтесь та дотримуйтесь [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct).
