@@ -23,7 +23,7 @@ Rust — нова мова системного програмування, що
 
 ## Обговорення
 
-Приєднуйтесь до Slack kyivlambda (ось [запрошення](https://kyivlambda.slack.com/join/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU)), а в ньому — до каналу `#rust`.
+Приєднуйтесь до Slack ‘kyivlambda’ (ось [запрошення](https://kyivlambda.slack.com/join/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU)), а в ньому — до каналу `#rust`.
 
 ## Норми поведінки
 
