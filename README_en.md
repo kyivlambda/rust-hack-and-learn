@@ -23,7 +23,7 @@ Please bring a laptop, ideally with your favourite editor and a recent Rust stab
 
 ## Discussions
 
-Join ‘kyivlambda’ Slack by following the [invitation link](https://kyivlambda.slack.com/join/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU).  Find `#rust` channel there.
+Join [‘kyivlambda’ Slack](https://github.com/kyivlambda/kyivlambda.github.io/blob/master/README.md#slack--telegram).  Find `#rust` channel there.
 
 ## Code of Conduct
 
