@@ -8,10 +8,15 @@ Everyone is welcome, from seasoned programmer to those still seeking an opportun
 
 ## Where
 
-[Chasopys Creative Space](http://www.chasopys.ua/page/events-eng.html), “Library” room.
-Lva Tolstogo str, 3, Kyiv.
+~~[Chasopys Creative Space](http://www.chasopys.ua/page/events-eng.html),
+“Library” room.  Lva Tolstogo str, 3, Kyiv.~~
 
-Note that you will have to pay for the time spent in Chasopys.  The price is 60 UAH per hour, as of April 2019.  Please speak to administrators for details. They can also show you where our group's tables are.
+~~Note that you will have to pay for the time spent in Chasopys.  The
+price is 60 UAH per hour, as of April 2019.  Please speak to
+administrators for details.~~
+
+:mask: To stop coronavius (COVID-19) spreading, meetups in Chasopys
+are suspended.
 
 ## When
 
